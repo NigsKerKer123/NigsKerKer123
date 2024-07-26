@@ -1,4 +1,4 @@
-- 🌱 My favorate language is YawaScript
+- 🌱 My favorite language is YawaScript
 
 <!---
 NigsKerKer123/NigsKerKer123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
