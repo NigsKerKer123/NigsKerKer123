@@ -24,6 +24,8 @@
   <img width="12" />
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Java.png" height="30" alt="Java logo"  />
   <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/958072?v=4" height="30" alt="Laravel logo"  />
+  <img width="12" />
 </div>
 
 ###
