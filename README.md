@@ -11,8 +11,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NigsKerKer123/NigsKerKer123/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ###
