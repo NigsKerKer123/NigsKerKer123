@@ -4,12 +4,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NigsKerKer123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-  &emsp;&emsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NigsKerKer123&layout=compact&hide=java,blade,css,html,scss&theme=merko"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NigsKerKer123&theme=merko&layout=compact&langs_count=6&custom_title=Time%20Well%20Spent"/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NigsKerKer123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NigsKerKer123/NigsKerKer123/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
